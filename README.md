@@ -1,0 +1,2 @@
+# kaldirackazanchesaplama
+Kaldıraç Kazanç Hesaplama
